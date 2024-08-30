@@ -27,7 +27,7 @@ export default [
   },
   {
     path: '/test',
-    name: '测试',
+    name: '页面',
     meta: {
       hideInMenu:false,
       icon: 'TrendCharts',

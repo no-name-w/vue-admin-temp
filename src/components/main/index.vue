@@ -15,7 +15,9 @@
           <TopHeader/>
         </el-header>
         <el-main>
-          <router-view></router-view>
+          <div class="page-container p5">
+            <router-view></router-view>
+          </div>
         </el-main>
       </el-container>
     </el-container>
